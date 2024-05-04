@@ -1,4 +1,4 @@
-![Header](https://github.com/yarnevski/yarnevski/blob/main/Screenshot_1.jpg)
+![Header](https://github.com/yarnevski/yarnevski/blob/main/Безымянный.png)
 
 About me
 
