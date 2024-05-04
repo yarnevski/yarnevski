@@ -1,5 +1,5 @@
 ![Header](https://github.com/yarnevski/yarnevski/blob/main/Безымянный.png)
 
-## I'm begginer QA Engineer
+## I'm a begginer QA Engineer
 
-Follow me
+![Flutter](https://img.shields.io/badge/Telegram-blue?logo=telegram)
