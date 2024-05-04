@@ -1,5 +1,5 @@
 ![Header](https://github.com/yarnevski/yarnevski/blob/main/Безымянный.png)
 
-About me
+## I'm begginer QA Engineer
 
 Follow me
